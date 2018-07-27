@@ -71,6 +71,10 @@ options = "metadata"
 
 - Create `~/dev` link for short access path `ln -s /c/Users/Poldet/dev ~/dev`
 
-reference:
+## Troubleshooting
+
+- git windows and git ubuntu is not sync `git config core.autocrlf true`
+
+_Reference:_
 
 > https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly
